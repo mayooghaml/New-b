@@ -1,0 +1,14 @@
+.home{
+    text-align: center;
+    margin: 5px auto;
+}
+
+.home h1{
+    color:white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.home p{
+    font-family:'Times New Roman';
+    color: white;
+}
