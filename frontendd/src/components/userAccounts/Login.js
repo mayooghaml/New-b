@@ -40,7 +40,7 @@ const Login = ({setToken}) => {
         body.password=password;
         if (body.uname === uname) {
             setToken(body);
-            navigate("New bb/frontendd/src/components/article/Article.js", { replace: true });
+            navigate("/article-list", { replace: true });
         } else {
             alert("Login Unsuccessful!");
         }
